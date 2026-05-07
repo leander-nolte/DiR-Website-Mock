@@ -15,11 +15,13 @@
     * Sicherheitsbewusste Privatpersonen
     * Unternehmen (zentrale Verwaltung)
 
+
 ### Unternehmen
 * **Name:** PassVault GmbH
 * **Standort:** Wien
 * **Größe:** 4 Mitarbeiter
 * **Auftritt:** Premium, Seriös, Sicher
+
 
 ### Geschäftsmodell
 * **Modell:** Premium Subscription
