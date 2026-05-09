@@ -26,3 +26,13 @@
     * *Pro:* 9,90 € / Monat (Einzelnutzer, unbegrenzte Geräteanzahl)
     * *Family:* 24,90 € / Monat (Bis zu 5 Familienmitglieder, inkl. gemeinsame 'Vaults' für geteilte Passwörter)
     * *Business:* 6,90 € pro Nutzer/ Monat (ab 5 Nutzern, zentrale Verwaltungsmöglichkeiten, Audit Logs)
+
+
+### Pages
+* Startseite
+* Barrierefreiheitserklärung
+* Sources / Copyright
+* About Us
+* Lizenz
+* Datenschutzerklärung
+* Kontakt & Impressum
