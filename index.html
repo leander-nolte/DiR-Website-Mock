@@ -13,9 +13,14 @@
         main { max-width: 800px; margin: 40px auto; padding: 20px; background: var(--white); border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
         footer { text-align: center; padding: 20px; font-size: 0.8em; color: #777; }
         .btn { background: var(--accent); color: var(--primary); padding: 10px 20px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; display: inline-block; }
+        button:focus { outline: 3px solid var(--accent); outline-offset: 2px; }
+        .skip-link { position: absolute; top: -40px; left: 0; background: var(--accent); color: var(--primary); padding: 8px; z-index: 100; font-weight: bold; }
+        .skip-link:focus { top: 0; }
     </style>
 </head>
 <body>
+
+<a href="#Angebote" class="skip-link">Zum Inhalt springen</a>
 
 <nav>
     <a href="index.html">Startseite</a>
@@ -30,15 +35,64 @@
     <p>Premium Passwort-Management</p>
 </header>
 
-<main>
+<main style="max-width: 1100px; margin: 40px auto; padding: 20px;">
 
-    <h2>Start</h2>
-    <p>Text</p>
+    <div style="text-align: center; margin-bottom: 40px;">
+        <h2 id="Angebote">Unsere Angebote</h2>
+        <p>PassVault schützt Ihre Passwörter mit modernster Verschlüsselung. Unsere angebote bieten verschiedene Funktionen je nach Gebrauch, ob Einzelperson, Familie oder Unternehmen. Sie können PassVault kostenfrei und komplett ohne Risiko für 2 Wochen Testen mit allen verfügbaren Funktionen</p>
+    </div>
 
+    <div style="display: flex; gap: 50px; justify-content: center;">
+
+        <div style="flex: 1; max-width: 300px; text-align: center; border-radius: 12px; padding: 20px; background: #0a192f; color: white; display: flex; flex-direction: column;">            <h3>Pro</h3>
+            <img src="images/person-icon.png" alt="Icon Person" style="width: 40%; filter: brightness(0) invert(1); align-self: center;">
+            <p><strong>9,90 € / Monat</strong></p>            <ul aria-label="Vorteile des Pro-Plans" style="text-align: left; padding-left: 20px; line-height: 2;">
+                <li style="margin-bottom: 10px;">Einzelbenutzerlizenz</li>
+                <li style="margin-bottom: 10px;">Hochsichere Passwortspeicherung</li>
+                <li style="margin-bottom: 10px;">unbegrenzte Geräteanzahl</li>
+                <li style="margin-bottom: 10px;">End-to-End Verschlüsselung (Zero-Knowledge)</li>
+                <li style="margin-bottom: 10px;">Sichere Cloud Speicherung</li>
+                <li style="margin-bottom: 10px;">Passwort-Generator</li>
+                <li style="margin-bottom: 10px;">MFA</li>
+            </ul>
+            <button class="btn" style="background: white; color: #0a192f; margin-top: auto;" onclick="alert('Nur für Demonstration, ist ja eine Mock-Website')">Jetzt Testen</button>
+        </div>
+
+        <div style="flex: 1; max-width: 300px; text-align: center; border-radius: 12px; padding: 20px; background: #0a192f; color: white; display: flex; flex-direction: column; border: 2px solid #c5a059; transform: scale(1.05);">
+            <span style="background: #c5a059; color: #0a192f; font-weight: bold; padding: 4px 12px; border-radius: 20px; font-size: 0.85em; align-self: center; margin-bottom: 8px;">⭐ Empfohlen</span>
+            <h3>Family</h3>
+            <img src="images/house-icon.png" alt="Icon Familie" style="width: 40%; filter: brightness(0) invert(1); align-self: center;">
+            <p><strong>21,90 € / Monat</strong></p>            <ul aria-label="Vorteile des Family-Plans" style="text-align: left; padding-left: 20px; line-height: 2;">
+                <li style="margin-bottom: 10px;">Passwort Schutz für die Gesamte Familie</li>
+                <li style="margin-bottom: 10px;">bis zu 5 Familienmitglieder</li>
+                <li style="margin-bottom: 10px;">Gemeinsame 'Vaults' für geteilte Passwörter</li>
+                <li style="margin-bottom: 10px;">✦ Alle Funktionen von <em style="color: #c5a059; font-style: normal; font-weight: bold;">Pro</em></li>
+            </ul>
+            <button class="btn" style="background: white; color: #0a192f; margin-top: auto;" onclick="alert('Nur für Demonstration, ist ja eine Mock Website')">Jetzt Testen</button>
+        </div>
+
+        <div style="flex: 1; max-width: 300px; text-align: center; border-radius: 12px; padding: 20px; background: #0a192f; color: white; display: flex; flex-direction: column;">            <h3>Enterprise</h3>
+            <img src="images/skyline-icon.png" alt="Icon Unternehmen" style="width: 40%; filter: brightness(0) invert(1); align-self: center;">
+            <p><strong>6,90 € pro Nutzer / Monat</strong></p>
+            <ul aria-label="Vorteile des Enterprise-Plans" style="text-align: left; padding-left: 20px; line-height: 2">
+                <li style="margin-bottom: 10px;">ab 5 Nutzer</li>
+                <li style="margin-bottom: 10px;">Hochsichere Passwortspeicherung für das gesamte Unternehmen</li>
+                <li style="margin-bottom: 10px;">Multi-User Management</li>
+                <li style="margin-bottom: 10px;">Zugriffsrechte</li>
+                <li style="margin-bottom: 10px;">Rollen</li>
+                <li style="margin-bottom: 10px;">Company Vaults</li>
+                <li style="margin-bottom: 10px;">Audit Logs</li>
+                <li style="margin-bottom: 10px;">✦ Alle Funktionen von <em style="color: #c5a059; font-style: normal; font-weight: bold;">Pro</em></li>
+            </ul>
+            <button class="btn" style="background: white; color: #0a192f; margin-top: auto;" onclick="alert('Nur für Demonstration, ist ja eine Mock Website')">Jetzt Testen</button>
+
+        </div>
+
+    </div>
 </main>
 
-<footer>
-    <p>&copy; 2026 PassVault GmbH | <a href="accessibility.html">Barrierefreiheit</a> | <a href="copyright.html">Urheberrecht</a></p>
+<footer style="text-align: center; padding: 20px; font-size: 1em; color: #333;">
+    <p>&copy; 2026 PassVault GmbH | <a href="accessibility.html" style="color: #0a192f;">Barrierefreiheit</a> | <a href="copyright.html" style="color: #0a192f;">Urheberrecht</a></p>
 </footer>
 
 </body>

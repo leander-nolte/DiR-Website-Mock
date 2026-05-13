@@ -3,19 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PassVault | Sicherheit aus Wien</title>
+    <title>Urheberrecht | PassVault</title>
     <style>
         :root { --primary: #0a192f; --accent: #c5a059; --white: #ffffff; --bg: #f9f9f9; }
         body { font-family: Arial, sans-serif; margin: 0; line-height: 1.6; background: var(--bg); color: #333; }
         header { background: var(--primary); color: var(--white); padding: 40px 20px; text-align: center; }
         nav { background: var(--white); padding: 15px; text-align: center; border-bottom: 2px solid var(--accent); position: sticky; top: 0; }
         nav a { margin: 0 15px; text-decoration: none; color: var(--primary); font-weight: bold; }
-        main { max-width: 800px; margin: 40px auto; padding: 20px; background: var(--white); border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-        footer { text-align: center; padding: 20px; font-size: 0.8em; color: #777; }
-        .btn { background: var(--accent); color: var(--primary); padding: 10px 20px; border: none; border-radius: 5px; font-weight: bold; cursor: pointer; text-decoration: none; display: inline-block; }
+        nav a:focus, button:focus, .footer-link:focus { outline: 3px solid var(--accent); outline-offset: 2px; }
+        main { max-width: 800px; margin: 40px auto; padding: 40px; background: var(--white); border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .skip-link { position: absolute; top: -40px; left: 0; background: var(--accent); color: var(--primary); padding: 8px; z-index: 100; font-weight: bold; }
+        .skip-link:focus { top: 0; }
+        footer { text-align: center; padding: 20px; font-size: 1em; color: #333; }
+        .footer-link { color: #0a192f; text-decoration: underline; }
     </style>
 </head>
 <body>
+
+<a href="#content" class="skip-link">Zum Inhalt springen</a>
 
 <nav>
     <a href="index.html">Startseite</a>
@@ -30,15 +35,15 @@
     <p>Premium Passwort-Management</p>
 </header>
 
-<main>
+<main id="content">
 
     <h2>Urheberrechte</h2>
-    <p>Text</p>
+    <p>hier kommt dann noch was aber ist bisher nur die struktur</p>
 
 </main>
 
-<footer>
-    <p>&copy; 2026 PassVault GmbH | <a href="accessibility.html">Barrierefreiheit</a> | <a href="copyright.html">Urheberrecht</a></p>
+<footer style="text-align: center; padding: 20px; font-size: 1em; color: #333;">
+    <p>&copy; 2026 PassVault GmbH | <a href="accessibility.html" class="footer-link">Barrierefreiheit</a> | <a href="copyright.html" class="footer-link">Urheberrecht</a></p>
 </footer>
 
 </body>
