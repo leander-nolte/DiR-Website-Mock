@@ -203,3 +203,36 @@ Sie erreichen uns diesbezüglich unter:
 SentryVault GmbH  
 +43 1 20 888 0  
 datenschutz@sentryvault.at
+
+
+## Impressum & Kontakt
+
+### Kontakt
+Für Fragen stehen wir Ihnen gerne zur Verfügung!
+
+SentryVault GmbH  
+Lavendelgasse 5  
+1010 Wien  
+Österreich
+
++43 1 20 888 0  
+office@sentryvault.at
+
+### Impressum
+
+Firmenname: SentryVault GmbH  
+Rechtsform: Gesellschaft mit beschränkter Haftung  
+Unternehmensgegenstand: IT-Dienstleistungen
+
+Firmenbuchnummer: FN 999999z  
+Firmenbuchgericht: Handelsgericht Wien  
+Firmensitz: 1010 Wien
+
+UID: ATU99999999  
+Mitglied bei: Wirtschaftskammer Wien  
+Aufsichtsbehörde: Magistratisches Bezirksamt des I. Bezirkes  
+Berufsrecht: Gewerbeordnung
+
+Geschäftsführung: Leander Nolte
+
+Blattlinie: Informationen zum Erwerb und zur Nutzung der SentryVault-Dienste, insbesondere des Passwort-Managers.
