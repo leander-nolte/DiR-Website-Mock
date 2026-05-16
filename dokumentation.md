@@ -134,42 +134,36 @@ SentryVault passt in beide, da es sich sowohl um eine herunterladbare Software a
 
 ## Lizenz (4)
 
-**Entwurf**
 
-Diese Bedingungen regeln die Nutzung des SentryVault Passwort-Managers. Bitte lesen Sie diese sorgfältig durch. Durch den Abschluss eines Abonnements oder der Testphase verpflichten Sie sich, den hier deklarierten Bedingungen Folge zu leisten.
+Um Sie über Ihre Rechte im Zuge der Nutzung der SentryVault-Produkte aufzuklären, lesen Sie folgende Bedingungen bitte aufmerksam durch. Sie verpflichten sich mit dem Abschluss eines Abonnements oder der Testphase, diesen Bedingungen Folge zu leisten.
 
-### 1. Nutzungsrechte & Tarife
+### 1. Nutzungsrechte
+Der Abschluss eines Abonnements berechtigt Sie zur zeitlich begrenzten Nutzung der SentryVault-Dienste im Rahmen Ihres gewählten Tarifs.
 
-Mit Abschluss eines Abonnements gewährt SentryVault ein zeitlich begrenztes Nutzungsrecht gemäß dem gewählten Tarif:
-
-- **Pro-Tarif:** Nutzung durch eine Person auf unbegrenzten Geräten. Die Nutzung für Privatpersonen sowie Einzelunternehmer ist ausdrücklich gestattet.
-- **Family-Tarif:** Nutzung durch bis zu 5 Personen, die im selben Haushalt leben oder eine familiäre Verbindung aufweisen.
-- **Enterprise-Tarif:** Nutzung im geschäftlichen Kontext für die lizenzierte Anzahl an Mitarbeitern inklusive Administrations-Features und Audit-Logs.
+*   **Pro:** Die Nutzung ist auf einen Nutzer beschränkt, es gibt jedoch keine Beschränkung der Geräteanzahl. Die Nutzung ist für private Zwecke wie auch kommerzielle Nutzung gestattet.
+*   **Family:** Die Nutzung ist auf 5 Nutzer beschränkt. Diese müssen im selben Haushalt wohnen und/oder eine familiäre Verbindung aufweisen.
+*   **Enterprise:** Die Nutzung ist im geschäftlichen Rahmen für die lizenzierte Anzahl an Mitarbeitern derselben Firma gestattet.
 
 ### 2. Testphase
-
-Neukunden erhalten eine kostenlose Testphase für 14 Tage, in welcher alle Funktionen des gewählten Tarifs zur Verfügung stehen. Sollte innerhalb der Testphase keine Kündigung erfolgen, wird das Abonnement automatisch kostenpflichtig fortgeführt.
+Neukunden können eine kostenlose, 14-tägige Testphase für ihren gewählten Tarif in Anspruch nehmen. Diese enthält alle Funktionen des gewählten Tarifs. Falls das Abonnement bis Ende der Testphase nicht gekündigt wird, läuft es automatisch in den kostenpflichtigen Tarif über.
 
 ### 3. Vorbehaltene Rechte
+Alle nicht ausdrücklich gewährten Rechte verbleiben bei der SentryVault GmbH.
 
-Alle Rechte, die nicht ausdrücklich gewährt werden, verbleiben bei der SentryVault GmbH:
-
-- Der Quellcode, jegliche Software- und Designelemente sind Eigentum der SentryVault GmbH. Sie erwerben mit dem Abonnement kein Eigentum an der Software.
-- Sowohl der Markenname SentryVault als auch das zugehörige Logo sind geschützt.
-- Die SentryVault GmbH hat jederzeit das Recht, den Dienst aus Sicherheits- und Funktionalitätsgründen anzupassen und zu aktualisieren.
+*   Jeglicher Quellcode sowie Design- und Softwareelemente sind das Eigentum der SentryVault GmbH. Durch den Erwerb einer Nutzungslizenz im Rahmen eines Tarifs erwerben Sie keinerlei Eigentum an der Software.
+*   Der Markenname „SentryVault“ sowie das Logo sind rechtlich geschützt.
+*   Die SentryVault GmbH hat jederzeit das Recht, den Dienst aus Sicherheits- und/oder Funktionalitätsgründen anzupassen bzw. zu aktualisieren.
 
 ### 4. Haftungsbeschränkungen
+Die Haftung der SentryVault GmbH ist wie folgt beschränkt:
 
-SentryVault setzt modernste Verschlüsselung ein, jedoch ist die Haftung folgendermaßen begrenzt:
-
-- **Zero-Knowledge-Prinzip:** Aufgrund der Client-Side-Verschlüsselung hat SentryVault keinen Zugriff auf die im Passwort-Manager hinterlegten Daten. Zugriff auf diese Daten ist von SentryVault daher technisch NICHT möglich.
-- **Account-Wiederherstellung:** Die Wiederherstellung des Zugangs zu einem Nutzerkonto, beispielsweise bei vergessenem Passwort, ist über bereitgestellte Funktionen möglich. Die Sicherheit der gespeicherten Daten bleibt dabei erhalten.
-- **Indirekte Schäden:** SentryVault haftet, soweit gesetzlich zulässig, nicht für entgangenen Gewinn durch Auszeiten und Aktualisierungspausen der Software.
-- **Haftungshöchstgrenze:** Die Gesamthaftung ist durch die Gesamtsumme, welche der Nutzer in den letzten 12 Monaten für das betroffene Abonnement tatsächlich gezahlt hat, begrenzt.
-- **Gesetzliche Haftung:** Haftung für Vorsatz, grobe Fahrlässigkeit sowie Personenschäden ist durch diese Beschränkungen nicht verändert.
+*   Aufgrund der Client-Side-Verschlüsselung (das „Zero-Knowledge-Prinzip“) hat SentryVault keinen Zugang zu Ihren im Passwort-Manager hinterlegten Daten. Eine Einsicht durch SentryVault ist daher technisch nicht möglich.
+*   Für die Wiederherstellung des Zugangs zu einem Benutzerkonto (beispielsweise durch ein vergessenes Master-Passwort) sind Möglichkeiten bereitgestellt. Hierbei bleibt die Sicherheit der Daten erhalten, solange die Wiederherstellung korrekt durchgeführt wird und nicht durch Informationsweitergabe des Nutzers kompromittiert wurde.
+*   Die SentryVault GmbH ist, soweit gesetzlich zulässig, nicht für entgangenen Gewinn durch Downtimes aufgrund von Softwareupdates und anderweitigen Gründen der Software verantwortlich und haftet nicht dafür.
+*   Die Gesamthaftung ist durch die Gesamtsumme, welche der Nutzer in den letzten 12 Monaten für das betroffene Abonnement tatsächlich gezahlt hat, begrenzt.
+*   Haftung für Vorsatz, grobe Fahrlässigkeit sowie Personenschäden ist durch diese Beschränkungen nicht verändert.
 
 ### 5. Laufzeit & Kündigung
-
 Nutzer können ihren Tarif jederzeit ändern oder kündigen. Das Abonnement bleibt bis zum Ende des bezahlten Zeitraums in vollem Umfang nutzbar. Das Nutzungsrecht erlischt (bzw. verändert sich bei Tarifwechsel) automatisch. Der Zugriff auf Daten wird somit gesperrt. Nutzer sind für die rechtzeitige Sicherung ihrer Daten selbst verantwortlich.
 
 ---
@@ -180,3 +174,32 @@ Nutzer können ihren Tarif jederzeit ändern oder kündigen. Das Abonnement blei
 
 
 ## Datenschutz (5)
+
+Erklärung zur Informationspflicht
+
+Da die Sicherheit Ihrer Daten für uns an erster Stelle steht, verarbeiten wir Ihre Daten ausschließlich wie vom Gesetz vorgegeben. Diese Datenschutzerklärung soll Ihnen ein genaueres Bild verschaffen, was mit Ihren Daten passiert.
+
+### Datenspeicherung
+
+Um ein angenehmes und einfaches Erlebnis auf unserer Website zu gewährleisten, werden technisch notwendige Cookies verwendet. Unter anderem werden IP-Adresse, Browserinformationen und technische Zugriffsdaten gespeichert.
+
+Im Falle eines Vertragsabschlusses werden außerdem Name, Anschrift, E-Mail-Adresse, Telefonnummer und Zahlungsinformationen gespeichert. Diese sind erforderlich, um den Kaufvertrag abzuschließen. Ihre Daten werden nicht an Dritte weitergegeben, mit der Ausnahme von:
+* Übermittlung der Kreditkarteninformationen an Bankinstitute / Zahlungsdienstleister zum Abbuchen der vertraglich festgesetzten Summen.
+* Übermittlung von Informationen an unseren Steuerberater zur Erfüllung unserer steuerlichen Pflichten.
+
+Nach dem Abbruch eines Kaufes werden gespeicherte Daten von uns gelöscht. Sollte ein Vertrag zustande kommen, so werden Ihre Daten aus dem Vertragsverhältnis so lange aufbewahrt, wie es die steuerliche Aufbewahrungsfrist verlangt (7 Jahre). Außerdem werden Name sowie Tarifart und Kaufdatum bis zum Ablauf der Produkthaftung (10 Jahre) gespeichert.
+Alle Datenverarbeitungsprozesse erfolgen gemäß § 96 Abs. 3 TKG sowie Art. 6 Abs. 1 DSGVO.
+
+Bei Kontaktaufnahme zu uns werden Ihre angegebenen Daten zur Abarbeitung Ihrer Anfrage bis zu 6 Monate gespeichert. Die Daten werden nicht weitergegeben.
+
+Unsere Website verwendet keine personenbezogenen Cookies, welche über die technische Notwendigkeit für die korrekte Funktionalität der Website hinausreichen.
+
+### Ihre Rechte
+Sie haben grundsätzlich das Recht auf Auskunft, Einschränkung, Löschung, Berichtigung, Datenübertragbarkeit, Widerspruch und Widerruf in Bezug auf Ihre von uns gespeicherten Daten.
+
+Im Falle des Verdachts auf Missbrauch Ihrer Daten bzw. Verstöße gegen das Datenschutzrecht können Sie bei uns und / oder der Datenschutzbehörde Beschwerde einlegen.
+
+Sie erreichen uns diesbezüglich unter:
+SentryVault GmbH  
++43 1 20 888 0  
+datenschutz@sentryvault.at
