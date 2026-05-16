@@ -71,3 +71,55 @@
 
 SentryVault passt in beide, da es sich sowohl um eine herunterladbare Software als auch Cloud-Basierter Service handelt.
 
+## Urheberrecht
+
+### Übersicht
+Bilder: 
+* logo.png - KI genriertes Bild
+* person-icon.png - flaticon
+* house-icon.png - flaticon
+* skyline-icon.png - flaticon
+
+Schriftart:
+* Inter - Google Fonts
+
+### Vorlage für copyright.html
+
+Grafiken:
+* Icons - Flaticon (https://www.flaticon.com/de/)
+  * Person - Icon (Startseite)
+    * Autor:  Ilham Fitrotul Hayat (https://www.flaticon.com/de/autoren/ilham-fitrotul-hayat)
+    * Quelle: Flaticon (Benutzer-Icon) https://www.flaticon.com/de/kostenloses-icon/benutzer_3059416?term=person&page=1&position=3&origin=search&related_id=3059416
+    * Lizenz: Flaticonlizenz (kostenlos für privaten & kommerziellen Gebrauch mit Bildnachweis)
+    * Zugriffsdatum: 14.05.2026
+    * Datei: person-icon.png
+    * Änderungen am Bild: Färbliche Anpassung
+  * Haus - Icon (Startseite)
+    * Autor: Freepik (https://www.flaticon.com/de/autoren/freepik)
+    * Quelle: Flaticon (Web-House-Icon-Icon) https://www.flaticon.com/de/kostenloses-icon/web-house_15730?term=house&page=1&position=2&origin=search&related_id=15730
+    * Lizenz: Flaticonlizenz (kostenlos für privaten & kommerziellen Gebrauch mit Bildnachweis)
+    * Zugriffsdatum: 14.05.2026
+    * Datei: house-icon.png
+    * Änderungen am Bild: Färbliche Anpassung
+  * Skyline - Icon (Startseite)
+    * Autor: Marcus Christensen (https://www.flaticon.com/de/autoren/marcus-christensen)
+    * Quelle: Flaticon (Stadt-Icon) https://www.flaticon.com/de/kostenloses-icon/stadt_6902731?term=skyline&page=1&position=32&origin=search&related_id=6902731
+    * Lizenz: Flaticonlizenz (kostenlos für privaten & kommerziellen Gebrauch mit Bildnachweis)
+    * Zugriffsdatum: 14.05.2026
+    * Datei: skyline-icon.png
+    * Änderungen am Bild: Färbliche Anpassung
+
+Schriftarten:
+  * Name: Inter
+  * Urheber: Rasmus Andersson
+  * Lizenz: SIL Open Font License, Version 1.1
+  * Quelle: Google Fonts (https://fonts.google.com/specimen/Inter)
+  * Zugriffsdatum: 16.05.2026
+
+KI-Generierte Inhalte:
+* Logo (Navigations-Balken)
+  * Generiert über: RouteLLM (Abacus.AI)
+  * Modell: GPT Image 2
+  * Verwendung im Rahmen der Abacus Nutzungsbedingungen (https://abacus.ai/terms)
+  * Erstelldatum: 14.05.2026
+  * Datei: logo.png
