@@ -236,3 +236,9 @@ Berufsrecht: Gewerbeordnung
 Geschäftsführung: Leander Nolte
 
 Blattlinie: Informationen zum Erwerb und zur Nutzung der SentryVault-Dienste, insbesondere des Passwort-Managers.
+
+
+
+### Abgabe
+
+Teile des html und css Codes der Webpages wurden mithilfe künstlicher Intelligenz erstellt. Außerdem half KI bei Recherche und erstellte ein Bild für die Website (so auch angegeben im Urheberrechtsteil). Alle Inhalte der Website und damit auch alle Aufgaben wurden eigenständig ohne KI verfasst. 
