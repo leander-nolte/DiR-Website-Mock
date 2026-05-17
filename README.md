@@ -205,7 +205,7 @@ SentryVault GmbH
 datenschutz@sentryvault.at
 
 
-## Impressum & Kontakt
+## Impressum & Kontakt (6)
 
 ### Kontakt
 Für Fragen stehen wir Ihnen gerne zur Verfügung!
